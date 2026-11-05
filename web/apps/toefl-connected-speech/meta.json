@@ -1,0 +1,11 @@
+{
+ "name": "toefl-connected-speech",
+ "title": "Connected Speech Trainer",
+ "exam": "TOEFL",
+ "area": "TOEFL Speaking and Writing",
+ "desc": "Understand linking and reduced forms, such as 'wanna' and 'gotta', in natural spoken English.",
+ "content": [
+  "connected_speech.json"
+ ],
+ "n": 76
+}
